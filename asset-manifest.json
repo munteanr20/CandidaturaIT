@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/munteanr20.github.io/static/css/main.d7da34c1.css",
+    "main.js": "/munteanr20.github.io/static/js/main.07b2e201.js",
+    "static/media/video.mp4": "/munteanr20.github.io/static/media/video.e3bd3e229b8d17a10214.mp4",
+    "static/media/svg-3.jpg": "/munteanr20.github.io/static/media/svg-3.e3560a4280b1ba456f2e.jpg",
+    "static/media/svg-2.jpg": "/munteanr20.github.io/static/media/svg-2.7ce0c84efcc71550e5ef.jpg",
+    "static/media/svg-4.jpg": "/munteanr20.github.io/static/media/svg-4.4192035e4daef9cb6d4d.jpg",
+    "static/media/svg-1.jpg": "/munteanr20.github.io/static/media/svg-1.1ed18ecec1d2563706f1.jpg",
+    "static/media/svg-5.jpg": "/munteanr20.github.io/static/media/svg-5.11397691b3339a0035e5.jpg",
+    "index.html": "/munteanr20.github.io/index.html",
+    "main.d7da34c1.css.map": "/munteanr20.github.io/static/css/main.d7da34c1.css.map",
+    "main.07b2e201.js.map": "/munteanr20.github.io/static/js/main.07b2e201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.07b2e201.js"
+  ]
+}
