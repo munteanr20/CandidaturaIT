@@ -1,29 +1,29 @@
 import React from 'react';
-import Icon1 from '../../images/svg-1.svg';
-import Icon2 from '../../images/svg-2.svg';
-import Icon3 from '../../images/svg-3.svg';
+import Icon1 from '../../images/svg-1.jpg';
+import Icon2 from '../../images/svg-2.jpg';
+import Icon3 from '../../images/svg-3.jpg';
 import { ServicesContainer, ServicesCard, ServicesH1, ServicesH2, ServicesIcon, ServicesP, ServicesWrapper } from './ServicesElements';
 
 const Services = () => {
   return (
     <>
     <ServicesContainer id="Vision">
-        <ServicesH1>Our Services</ServicesH1>
+        <ServicesH1>Ce aduc nou?</ServicesH1>
         <ServicesWrapper>
             <ServicesCard>
                <ServicesIcon src={Icon1}/> 
-               <ServicesH2>Card 1</ServicesH2>
-               <ServicesP> Lorem Ipsum</ServicesP>
+               <ServicesH2> Mici proiecte interne </ServicesH2>
+               <ServicesP> Activitati pentru motivarea oamenilor din departament</ServicesP>
             </ServicesCard>
             <ServicesCard>
                <ServicesIcon src={Icon2}/> 
-               <ServicesH2>Card 2</ServicesH2>
-               <ServicesP> Lorem Ipsum</ServicesP>
+               <ServicesH2> Mentorship </ServicesH2>
+               <ServicesP> Program de mentorat pentru aprofundarea cunostintelor in Divi</ServicesP>
             </ServicesCard>
             <ServicesCard>
                <ServicesIcon src={Icon3}/> 
-               <ServicesH2>Card 3</ServicesH2>
-               <ServicesP> Lorem Ipsum </ServicesP>
+               <ServicesH2> Sharing-uri diverse </ServicesH2>
+               <ServicesP> Posibilitatea de a participa si invata skill-uri noi in urma unor sedinte lunare sau bilunare </ServicesP>
             </ServicesCard>
         </ServicesWrapper>
     </ServicesContainer>

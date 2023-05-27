@@ -28,7 +28,7 @@ const Navbar = ({ toggle }) => {
     <IconContext.Provider value={{color: '#fff'}}>
         <Nav scrollNav = {scrollNav}>
             <NavbarContainer>
-                <NavLogo to ='/' onClick={toggleHome}> muntean </NavLogo>
+                <NavLogo onClick={toggleHome}> muntean </NavLogo>
                 <MobileIcon onClick={toggle}>
                     <GiCrystalBars/>
                 </MobileIcon>
